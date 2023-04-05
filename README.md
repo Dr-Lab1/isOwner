@@ -9,3 +9,7 @@ Vous pouvez copier le code ou le pull
 Ensuite importer le fichier 
     
     import './isOwner.sol';
+
+Faire l'héritage du contrat
+
+    contract Wallet is isOwner{ #code }
