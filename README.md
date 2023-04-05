@@ -12,4 +12,4 @@ Ensuite importer le fichier
 
 Faire l'héritage du contrat
 
-    contract Wallet is isOwner{ #code }
+    contract nom_contrat is isOwner{ #code }
